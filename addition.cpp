@@ -2,10 +2,10 @@
 #include<conio.h>
 #include<math.h>
 void main()
- {            cout<<"\t\t\tADDITON TWO NUMBER IN C++";
+ {            cout<<"ADDITON TWO NUMBER IN C++"<<endl;
  float p,q;
  float a;
- cout<<"Enter two value :: "<<endl;
+ cout<<"Enter two values : "<<endl;
  cin>>p>>q;
   a=p+q;
   cout<<"ADDITION = "<<a<<endl;
